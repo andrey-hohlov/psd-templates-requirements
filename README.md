@@ -183,9 +183,9 @@
 
 
 ##### Статьи и видео по теме:
-* http://i-love-psd.ru/
-* http://habrahabr.ru/post/50497/
-* http://habrahabr.ru/post/56625/
-* https://github.com/KyreenaH/Designing-for-Web
-* https://github.com/nicothin/web-design
-* https://www.youtube.com/watch?v=lW4uzJp6uIg
+* [Правила хорошего тона в «Фотошопе»](http://i-love-psd.ru/)
+* [Памятка дизайнеру сайтов](http://habrahabr.ru/post/50497/)
+* [8 простых способов улучшить типографику в вашем дизайне](http://habrahabr.ru/post/56625/)
+* [Designing for web](https://github.com/KyreenaH/Designing-for-Web)
+* [О чём должен помнить веб-дизайнер](https://github.com/nicothin/web-design)
+* [О чём смеются верстальщики | Вадим Макеев | Дизайн-форум Prosmotr](https://www.youtube.com/watch?v=lW4uzJp6uIg)
