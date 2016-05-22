@@ -182,9 +182,10 @@
 Все элементы должны быть подготовлены и обрезаны таким образом, чтобы исключить ситуации, когда, например, при экспорте треугольника из макета получается ромб (потому, что верхнюю его половину просто прикрывал другой слой.
 
 
-##### Статьи по теме:
+##### Статьи и видео по теме:
 * http://i-love-psd.ru/
 * http://habrahabr.ru/post/50497/
 * http://habrahabr.ru/post/56625/
 * https://github.com/KyreenaH/Designing-for-Web
 * https://github.com/nicothin/web-design
+* https://www.youtube.com/watch?v=lW4uzJp6uIg
