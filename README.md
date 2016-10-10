@@ -215,3 +215,5 @@
 * [Designing for web](https://github.com/KyreenaH/Designing-for-Web)
 * [О чём должен помнить веб-дизайнер](https://github.com/nicothin/web-design)
 * [О чём смеются верстальщики | Вадим Макеев | Дизайн-форум Prosmotr](https://www.youtube.com/watch?v=lW4uzJp6uIg)
+* [Дизайнь как верстальщик](https://habrahabr.ru/post/311800/)
+
