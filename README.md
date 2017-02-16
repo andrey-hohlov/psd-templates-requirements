@@ -139,6 +139,7 @@
 
 1. [Icon System with SVG Sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 2. [SVG `symbol` a Good Choice for Icons](https://css-tricks.com/svg-symbol-good-choice-icons/)
+3. [Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
 
 ## <a name="Шрифты"></a>Шрифты
 
