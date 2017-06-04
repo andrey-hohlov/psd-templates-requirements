@@ -247,6 +247,5 @@
 * [О чём смеются верстальщики | Вадим Макеев | Дизайн-форум Prosmotr](https://www.youtube.com/watch?v=lW4uzJp6uIg)
 * [Дизайнь как верстальщик](https://habrahabr.ru/post/311800/)
 * [Требования к дизайн-макету сайта - Студия ПаЛыЧа](http://palpalych.ru/blog/7-prochee/85-trebovanija-k-dizajnmaketu-sajta.html)
-* [О чём должен помнить веб-дизайнер](https://github.com/nicothin/web-design)
 * [Работа в команде. Как помирить дизайнера и верстальщика](https://habrahabr.ru/post/330144/)
 
